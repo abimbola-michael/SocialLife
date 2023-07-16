@@ -1,6 +1,9 @@
 # sociallife
 
-A new Flutter project.
+Social Life is a social media UI app built with Flutter.
+
+https://github.com/abimbola-michael/SocialLife/assets/89009174/492a6d9f-01ec-4568-b70f-da2abd402e2c
+
 
 ## Getting Started
 
